@@ -1,0 +1,1 @@
+Bu ödevde kentsel dönüşüm veritabanı sistemi yapılmıştır.
